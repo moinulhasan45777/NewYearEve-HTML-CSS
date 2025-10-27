@@ -37,4 +37,4 @@ Open the `index.html` file in a web browser to explore the website and experienc
 - CSS3
   
 ## Credits
-This project was completed by me, but the design 'figma' file was taken from the [Complete Web Development Course](https://web.programming-hero.com/course-details) by Programming Hero. The course provided the necessary resources, including visual assets and images, for building the website.
+The design 'figma' file was taken from the [Complete Web Development Course](https://web.programming-hero.com/course-details) by Programming Hero. The course provided the necessary resources, including visual assets and images, for building the website.
