@@ -2,7 +2,7 @@
 ![screen-capture](https://github.com/user-attachments/assets/0334d821-ceaa-48f0-bf19-67d9c5de0d6c)
 
 ## Description
-"New Year Eve Invitation" is an unresponsive website project created using HTML and CSS. This project was a practice project built to showcase a New Year Party Invitation with attractice colors and images. 
+"New Year Eve Invitation" is an unresponsive website project created using HTML and CSS. This project was a practice project built to showcase a New Year Party Invitation with attractive colors and images. 
 
 ## Table of Contents
 - [Demo](#demo)
